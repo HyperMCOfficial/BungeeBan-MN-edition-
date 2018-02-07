@@ -1,0 +1,11 @@
+name: MNBan
+main: net.valc.bungeebans.Main
+author: Hundeklemmen
+version: 1.0
+description: A fully customizable and easy to use BungeeCord plugin managing Bans and Mutes, and much more!
+commands:
+ mnban:
+ mnmute:
+ mnunban:
+ mnunmute:
+ mncheck:
