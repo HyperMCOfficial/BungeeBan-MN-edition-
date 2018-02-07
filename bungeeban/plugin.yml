@@ -1,6 +1,6 @@
-name: MNBan
+name: MineNation-Ban
 main: net.valc.bungeebans.Main
-author: Hundeklemmen
+author: [Hundeklemmen, BossByz]
 version: 1.0
 description: A fully customizable and easy to use BungeeCord plugin managing Bans and Mutes, and much more!
 commands:
