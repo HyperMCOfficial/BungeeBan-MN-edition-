@@ -22,8 +22,8 @@ mysql:
 #
 lang:
 
-  prefix: '&8| &3&lBungee&b&lBan &8| '
-  console_prefix: '[BungeeBan] '
+  prefix: '&8| &b&lMineNation &f&lBan &8| '
+  console_prefix: '[MineNationBan] '
   time_format: '{DAYS} day(s), {HOURS} hour(s), {MINUTES} min(s) and {SECONDS} sec(s)'
   time_format_permanent: 'PERMANENT'
   
